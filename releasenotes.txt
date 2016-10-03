@@ -1,0 +1,4 @@
+## Version v_0.94
+- Ajout d'une balise meta google issue du site outils google pour webmestre:
+
+		<meta name="google-site-verification" content="8s1VJ5PMvqdUf6bB960fodgJi1Mq7zCA1Dh4DiUsaGA" />
